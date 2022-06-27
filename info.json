@@ -1,0 +1,20 @@
+{
+	"name": "alfredo",
+    "website":"https://github.com/alfredo-saenz",
+    "linkedin": "https://www.linkedin.com/in/alfredo-saenz/",
+    "github": "alfredo-saenz",
+    "email": "alfredosaenz104@gmail.com",
+    "proficientTechnologies": [
+        "Html",
+        "Css",
+        "Javascript",
+        "React",
+        "Node"
+    ],
+    "otherSkills": [
+        "adobe Illustrator",
+        "adobe Photoshop",
+        "Premiere Pro"
+    ]
+
+}
